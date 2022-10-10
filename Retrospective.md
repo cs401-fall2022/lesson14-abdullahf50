@@ -1,7 +1,7 @@
 # Retrospective
 
-- name: Jane Doe
-- email: janedoe@u.boisestate.edu
+- name: Abdullah Faizi
+- email: abdullahmohammad530@u.boisestate.edu
 
 ## Instructions
 
@@ -21,12 +21,12 @@ Be safe CITE!
 
 ## Experience
 
-TODO
+For this lab I struggled with understanding what I was supposed to do. I got some idea on what I should do and that is to create a tutorial on how typeScript works and how it makes our job easier because it catches bugs before we run our code. I was able to form an outline in the index.html files that I will be working on.
 
 ## Known issues or Bugs
 
-TODO
+I did not experience any issues or bugs.
 
 ## Sources used
 
-TODO
+zybooks, typescriptlang.org
