@@ -11,3 +11,12 @@ p1{
     color:black;
     text-align: center;
   }
+
+  #container{
+    width: 600px;
+    border: 2px;
+    border-color:blue;
+    border-style: solid;
+    padding: 5px;
+    background-color: yellow;
+  }
