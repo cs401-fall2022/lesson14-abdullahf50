@@ -1,6 +1,13 @@
 p1{
-    font-size: 32pt;
+    font-size: 13pt;
     font: Arial;
-    font-style: italic;
-    color: blue 
+    font-style:italic;
+    color: black
+  }
+
+  h1{
+    font-family: "Roboto", "Helvetica", sans-serif;
+    font-size: 16px;
+    color:black;
+    text-align: center;
   }
