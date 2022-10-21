@@ -17,6 +17,25 @@
     will be mentioned below. 
   </p1>
   <h2>Types by Inference</h2>
+  <p2>TypeScript is familiar with JavaScript language and when you declare a variable, the value of that variable will be used 
+    to as the type. When you try to use this variable later as a number then you will get an error because it's type 
+    is a string. 
+    Sometimes it is difficult for TypeScript to understand the type when you use object-oriented programming. In this 
+    case you can use interfaces to tell javaScript what the type of the variables are.
+
+              Interface User {
+                name: string;
+                id: number;
+              }
+    then use this interface
+
+              const user: User = {
+                name: "Hayes",
+                id: 0;
+              } 
+    if an unknown property is used that is not included in the interface then it will give you an error.            
+
+  </p2>
   <h2>Defining Types</h2>
   <h2>Composing Types</h2>
   <h3>Generics</h3>
