@@ -1,7 +1,7 @@
-p1{
+div{
     font-size: 13pt;
-    font: Arial;
-    font-style:italic;
+    font-family: "Roboto", "Helvetica", sans-serif;
+    font-style:normal;
     color: black
   }
 
@@ -12,11 +12,24 @@ p1{
     text-align: center;
   }
 
+  h2{
+    font-family: "Roboto", "Helvetica", sans-serif;
+    font-size: 16px;
+    color:black;
+    text-align: center;
+  }
+
   #container{
     width: 600px;
     border: 2px;
-    border-color:blue;
+    border-color:silver;
     border-style: solid;
     padding: 5px;
-    background-color: yellow;
+    background-color: rgb(90, 56, 76);
+    color: white;
+    font-weight: bold;
+  }
+
+  body{
+    background-color: silver;
   }
