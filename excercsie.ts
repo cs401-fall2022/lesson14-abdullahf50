@@ -1,13 +1,2 @@
-interface Person {
-    name: string;
-    age: number;
-}
-
-const person: Person = {
-    name: "Jake",
-    age: 24,
-};
-
-const person2: Person = {
-    name: "Jonathan",
-}
+let userName: string = "bob";
+let pageName: string | number = "1";
