@@ -1,7 +1,8 @@
-const first = <T>(array: T[]) => {
-    return array[array.length - 1];
-};
+// functions in TypeScript
 
-const f = first([1, 2, 3]);
+function displaySum(a: number, b: number, c: number) {
+    let sum = a + b + c;
+    console.log(sum);
+}
 
-const f2 = first(["a", "b", "c"]);
+displaySum(5,4,2);
